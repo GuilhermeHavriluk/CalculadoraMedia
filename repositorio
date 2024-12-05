@@ -1,0 +1,7 @@
+cd /caminho/para/a/pasta/CalculadoraMedia
+git init
+git add .
+git commit -m "Inicialização do projeto: Calculadora de Médias"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/CalculadoraMedia.git
+git push -u origin main
